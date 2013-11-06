@@ -1,0 +1,13 @@
+*.class
+*.iml
+*.ipr
+*.iws
+target
+**/*.iml
+.idea
+.settings
+.classpath
+.project
+.settings/*
+/bin
+web-app/images/tempImages
