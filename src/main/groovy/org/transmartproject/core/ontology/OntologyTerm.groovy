@@ -31,6 +31,8 @@ public interface OntologyTerm {
      * @return the full path of the term; path with \ as a separator
      */
     String getFullName()
+	
+	String getComment()
 
     /**
      * The user friendly name of the term.
